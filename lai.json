@@ -1,9 +1,9 @@
 {
-    "server":"192.157.226.17",
+    "server":"xxx.xxx.xxx.xxx",
     "server_port":54285,
     "local_address": "127.0.0.1",
     "local_port":1405,
-    "password":"cdjly2017",
+    "password":"xxxxxx",
     "timeout":300,
     "method":"aes-256-cfb",
     "fast_open": false
